@@ -3,7 +3,12 @@ Authors: Elaine Demetrion, Liberty Lehr & Emi Neuwalder
 
 Contribution Breakdown
 Elaine Demetrion:
+
 Liberty Lehr:
+I obtained the first set of key words by reading the scientific reports and extracting key players and phrases pertaining to the private laboratory that relocated to Alderwood and the new laboratory. Then I divided these key phrases into groups to produce csv files of newspaper articles relating to specific topics within the broader problem.
+With the developed set of relevant articles I worked to produce the majority of the timeline that we used to find the key players within the conflict and could use to establish a chain of events. Using this information I was able to create hypothesis one which states that there is a positive relationship between City Hall and both laboratories. Then Elaine and I were able to connect the key players to show supportive relationships between different organizations.
+I formulated our ideas about the obstacles that we encountered, our solutions and how we might hypothetically redo the assignment.
+
 
 Emi Neuwalder:
 
