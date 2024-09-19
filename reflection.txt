@@ -4,6 +4,7 @@ Authors: Elaine Demetrion, Liberty Lehr & Emi Neuwalder
 Contribution Breakdown
 Elaine Demetrion:
 Liberty Lehr:
+
 Emi Neuwalder:
 
 Obstacle and Sollution
