@@ -11,6 +11,7 @@ I formulated our ideas about the obstacles that we encountered, our solutions an
 
 
 Emi Neuwalder:
+I developed code to parse the newspaper articles and retrieve metadata (title, date, author) and key word frequency to create a dataframe and then used this dataframe and the lists of key phrases developed by Liberty and Elaine to find new key words. I also read many articles about the city council trying to trace cash flow and budgeting and local politics but was unable to collect enough information in a cohesive manner to create a visualization, though I did identify a few more key players through this analysis. Created timeline visualization.
 
 Obstacle and Solution
 Originally the vast amount of newspaper articles that we were given was overwhelming. We did not know where to begin or how to find information relevant to our problem. Eventually we decided to construct a basic search engine to find articles relevant to a "laboratory." This helped us identify key players and events which gave us the foundation on which to build our hypotheses.
