@@ -1,13 +1,16 @@
 id,entity,political_affiliation
 Laurel Sulfate,individual,republican
-Alejandro Von Ryker,individual,n/a
-Bruce Rinz,individual,n/a
+Alejandro Von Ryker,individual,na
+Bruce Rinz,individual,na
 John Torch,individual,democrat
 Rex Luthor,individual,republican
-Dr Philip Boynton,individual,n/a
-Delwin Sanderson,individual,n/a
+Dr Philip Boynton,individual,na
+Delwin Sanderson,individual,na
 Gary Locke,individual,republican
-Boynton Laboratories,organization,n/a
-Von Ryker Institute of Research AG,organization,n/a
-Washen Foundation,organization,n/a
-City Hall,organization,n/a
+Boynton Laboratories,organization,na
+Von Ryker Institute of Research AG,organization,na
+Washen Foundation,organization,na
+City Hall,organization,na
+Tom Rockford,individual,na
+Tom Seeger,individual,na
+Jennie Angel,individual,na
